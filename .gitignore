@@ -1,0 +1,9 @@
+.env
+token.pickle
+client_secret.json
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
